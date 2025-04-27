@@ -7,6 +7,7 @@
 ## 🔥 My Baekjoon Streak
 
 [![mazandi profile](http://mazandi.herokuapp.com/api?handle=hjs6144&theme=warm)](https://solved.ac/profile/hjs6144)
+<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=warm"/>
 
 ---
 
